@@ -24,7 +24,7 @@ Using [Setlist.FM API](https://api.setlist.fm/docs/index.html) and the [Spotify 
 
         1. Fetches the setlist for the artist's most recent concert.
 
-        2. Retrieves the metadata for each track (including Artist Name, Album Name, Track Name, Release Year, ISRC, Duration, Spotify ID and ...)
+        2. Retrieves the metadata for each track (including Artist Name, Album Name, Track Name, Release Year, ISRC, Duration, and Spotify ID)
 
         3. Stores the list of tracks and metadata as a playlist locally, the playlist should be retrievable by the date of the concert.
 
