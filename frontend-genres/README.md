@@ -50,4 +50,4 @@ This is our opportunity to see how you think, how you organize your code, and yo
 
 Though the task is small, we encourage you to employ all of your own best practices, in order to show us how you would work in a larger project.  Therefore, feel free to employ your best use of components, services, tests, etc, to show us what your "production" level code looks like.
 
-Feel free to reach out with any questions you may have to `aaron.craig@iamplus.com`.
+Feel free to reach out with any questions you may have to `coding-challenges@iamplus.com`.
